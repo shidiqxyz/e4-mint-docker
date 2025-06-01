@@ -23,7 +23,6 @@ git clone https://github.com/shidiqxyz/e4-mint-docker.git
 cd e4-mint-docker
 ````
 
----
 
 ## 🔑 2. Insert Your Private Keys
 
@@ -36,6 +35,7 @@ Open the `pk.txt` file and paste your private keys inside, one per line:
 ...
 
 > These keys should already be funded and ready on the **MegaETH network**.
+```
 
 ---
 
